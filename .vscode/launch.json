@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Masked/Documents/GitHub/C-experiments",
-      "program": "c:/Users/Masked/Documents/GitHub/C-experiments/build/Debug/outDebug",
+      "cwd": "c:/Users/Masked/Documents/GitHub/C-experiments/1-Types-Operators-Expressions",
+      "program": "c:/Users/Masked/Documents/GitHub/C-experiments/1-Types-Operators-Expressions/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
